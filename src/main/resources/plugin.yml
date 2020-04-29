@@ -1,0 +1,10 @@
+name: Votemine
+version: "0.1"
+api-version: "1.15"
+author: Hovoh
+main: com.votemine.Votemine
+depend: []
+commands:
+  votemine:
+    description: Command minevote
+    usage: /minevote
